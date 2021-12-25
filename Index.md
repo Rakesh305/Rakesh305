@@ -1,3 +1,4 @@
+![](/Images/G.jpg)
 # Glad to meet you here 
 
 ### Something you want to know about my profession
