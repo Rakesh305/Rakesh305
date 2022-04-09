@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Web develeopment frontend and backend.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
+- 👯 Constant collaborator to **OpenSource Projects.**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 Projects **Coming soon....**
 
-- 📫 How to reach me **rakesh441991@gmail.com**
+- 📫 Please reach me on **rakesh441991@gmail.com**
 
 - ⚡ Fun fact **I am a foodoholic and obsessed biriyani lover.**
 
