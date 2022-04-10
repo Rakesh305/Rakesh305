@@ -1,7 +1,9 @@
-<a href="#"><img width="50%" height="auto" src="https://cdn-images-1.medium.com/max/1200/1*3tLD4Ve66pbBpuawm9Fu9Q.png" height="100px"></a>
+<a href="#"><h1 align="center"><img width="50%" height="auto" src="https://venturebeat.com/wp-content/uploads/2021/11/developer-getty.jpeg?w=1200&strip=all" height="100px"></a></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakesh Bannaravuri</h1>
 <h3 align="center">I'm Just an ordinary person with an extraordinary dream and a passionate Full Stack Developer from India.</h3>
+
+
 
 
 ## 🙋‍♂️ About Me
