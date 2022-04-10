@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn-images-1.medium.com/max/1200/1*3tLD4Ve66pbBpuawm9Fu9Q.png" height="100px"></a>
+<a href="#"><img width="50%" height="auto" src="https://cdn-images-1.medium.com/max/1200/1*3tLD4Ve66pbBpuawm9Fu9Q.png" height="100px"></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakesh Bannaravuri</h1>
 <h3 align="center">I'm Just an ordinary person with an extraordinary dream and a passionate Full Stack Developer from India.</h3>
