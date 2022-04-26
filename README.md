@@ -14,11 +14,13 @@
 
 - 👯 Constant collaborator to **OpenSource Projects.**
 
-- 👨‍💻 Projects **Coming soon....**
+- 👨‍🔧 Current project **Coming soon....**
+
+- 👨‍💻 Check out my official webpage **Coming soon....**
 
 - 📫 Please reach me on **rakesh441991@gmail.com**
 
-- ⚡ Fun fact **I am a foodoholic and obsessed biriyani lover.**
+- 🥸 Fun fact **I am a foodoholic and obsessed biriyani lover.**
 
 ## 🚀 **Languages and Tools**:
 
