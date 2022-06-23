@@ -1,4 +1,4 @@
-<a href="#"><h1 align="center"><img width="30%" height="auto" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" height="100px"></a></h1>
+<a href="#"><h1 align="center"><img width="35%" height="auto" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" height="100px"></a></h1>
 
 <h1 align="center">Hi, I'm Rakesh Bannaravuri</h1>
 <h3 align="center">I'm Just an ordinary person with an extraordinary dream and a passionate Developer from India.</h3>
