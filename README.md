@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ **About Me**
 
-- 🔭 I’m currently working as **Product specialist at KEKA Technologies.**
+- 🔭 I’m currently working as **Web Developer at Virtusa.**
 
 - 🌱 I’m currently learning **Web develeopment frontend and backend.**
 
