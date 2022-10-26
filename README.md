@@ -32,7 +32,6 @@
     <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/angularjs.png"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_top"> <img src="https://img.icons8.com/fluency/48/flask.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
