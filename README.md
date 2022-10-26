@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ **About Me**
 
-- 🔭 I’m currently working as **Web Developer at Virtusa.**
+- 🔭 I’m currently working as **Web Developer.**
 
-- 🌱 I’m currently learning **Web develeopment frontend and backend.**
+- 🌱 I’m currently learning **Web application development**
 
 - 👯 Constant collaborator to **OpenSource Projects.**
 
