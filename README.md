@@ -42,10 +42,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/rakesh-bannaravuri-a97121123/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/_bannaravuri"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
 
-© 2022 GitHub, Inc.
+© 2023 GitHub, Inc.
 Copyrights Reserved.
